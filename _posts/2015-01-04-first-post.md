@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My First Data Science Project 
+title: California Bike-Share
 image: /img/hello_world.jpeg
 ---
-
-This is my first post, how exciting!
+My first blog post where I analyse bike-sharing data in California 2015.
+https://medium.com/@ashwin12swamy96/california-bike-share-de5bac052b36
