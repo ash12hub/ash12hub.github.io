@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: My First Data Science Project 
 image: /img/hello_world.jpeg
 ---
 
