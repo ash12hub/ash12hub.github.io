@@ -1,7 +1,6 @@
 ---
 layout: post
-title: California Bike-Share
-image: /img/hello_world.jpeg
+title: Predicting Earthquakes
 ---
-My first blog post where I analyse bike-sharing data in California 2015.
-https://medium.com/@ashwin12swamy96/california-bike-share-de5bac052b36
+My second blog post where I analyse the damage a building recieves from an earthquake.
+https://medium.com/@ashwin12swamy96/predicting-earthquakes-e8105a38fc5b
